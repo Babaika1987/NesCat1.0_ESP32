@@ -1,3 +1,10 @@
+
+# NEW NCAT HERE:
+
+# https://github.com/nathalislight/NCAT
+
+
+# OLD NESCAT:
 # NesCat1.0_ESP32
 Due to increased popularity of NesCat 0.5 project, I remastered old version of NESCAT 1.0 (NCAT) project (this is deprecated version).
 This is experimental version and nothing is guaranteed.
